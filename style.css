@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: #212223;;
+    height: 60px;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.header .main-menu {
+    list-style: none;
+}
+
+.header .main-menu li a {
+    color: white;
+    text-decoration: none;
+}
+
+.header .main-menu li {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.button {
+    margin-left: 10px;
+    padding-right: 130px;
+    padding-left: 5px;
+    border-radius: 10px;
+    color: gray;
+}
+
+.plejbek {
+    text-decoration: none;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.slika1 {
+    height: 20px;
+    background-color: black;
+}
+
+.second-header {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    position: relative;
+    top: 100px;
+}
+
+.datum {
+    background-color:#212223;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.slika2 {
+    height: 40px;
+}
+
+.slika3 {
+    height: 40px;
+}
+
+.slika4 {
+    height: 40px;
+}
+
+
+
+
+
