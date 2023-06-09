@@ -18,6 +18,8 @@
 .header .main-menu li a {
     color: white;
     text-decoration: none;
+    position: relative;
+    left: 420px;
 }
 
 .header .main-menu li {
@@ -31,17 +33,24 @@
     padding-left: 5px;
     border-radius: 10px;
     color: gray;
+    position: relative;
+    left: 420px;
 }
+
 
 .plejbek {
     text-decoration: none;
     color: white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    right: 100px;
 }
 
 .slika1 {
     height: 20px;
     background-color: black;
+    position: relative;
+    right: 100px;
 }
 
 .second-header {
@@ -58,6 +67,7 @@
     padding-bottom: 10px;
     border-radius: 10px;
     padding-left: 10px;
+    text-align: center;
 }
 
 .slika2 {
@@ -72,7 +82,68 @@
     height: 40px;
 }
 
+.main {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    position: relative;
+    top: 150px;
+    background-color: aliceblue;
+}
 
+.text1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    border: 2px solid;
+    text-align: center;
+    background-color:aliceblue;
+    color:black;
+}
 
+.text2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    border: 2px solid;
+    text-align: center;
+    margin-top: 55px;
+    background-color:aliceblue;
+    color:black;
+}
+
+.text3 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    border: 2px solid;
+    text-align: center;
+    margin-top: 33px;
+    background-color:aliceblue;
+    color:black;
+}
+
+.slika5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 20px;
+}
+
+.slika6 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.slika7 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 20px;
+}
 
 
