@@ -27,17 +27,6 @@
     margin-left: 15px;
 }
 
-.button {
-    margin-left: 10px;
-    padding-right: 130px;
-    padding-left: 5px;
-    border-radius: 10px;
-    color: gray;
-    position: relative;
-    left: 420px;
-}
-
-
 .plejbek {
     text-decoration: none;
     color: white;
@@ -54,6 +43,13 @@
 }
 
 .second-header {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    position: relative;
+    top: 200px;
+}
+
+.search-menu {
     padding-top: 25px;
     padding-bottom: 25px;
     position: relative;
@@ -86,7 +82,7 @@
     padding-top: 25px;
     padding-bottom: 25px;
     position: relative;
-    top: 150px;
+    top: 250px;
     background-color: aliceblue;
 }
 
@@ -145,5 +141,23 @@
     width: 50%;
     border-radius: 20px;
 }
+
+.button {
+    text-align: center;
+    margin-left: 10px;
+    padding-right: 50px;
+    padding-left: 5px;
+    border-radius: 10px;
+    color: black;
+}
+
+.text {
+    margin-left: 10px;
+    padding-right: 130px;
+    padding-left: 5px;
+    color: black;
+}
+
+
 
 
